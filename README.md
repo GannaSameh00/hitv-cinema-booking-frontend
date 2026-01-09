@@ -17,3 +17,5 @@ A cinema booking website developed as a university project.
 
 ## Note
 I was **not responsible for backend logic or database implementation**.
+## Assets
+Some large video files were excluded from the repository due to size limitations.
